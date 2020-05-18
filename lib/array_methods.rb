@@ -8,7 +8,6 @@ end
 
 def using_reverse(array)
   array.reverse!
-  puts array
 end
 
 def using_first(array)
@@ -23,4 +22,5 @@ def using_size(array)
 
 end
 
-using_reverse(["wow", "I", "am", "really", "learning", "arrays!"])
+returnval = using_reverse(["wow", "I", "am", "really", "learning", "arrays!"])
+puts returnval
