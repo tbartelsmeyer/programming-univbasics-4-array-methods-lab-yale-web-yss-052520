@@ -23,4 +23,4 @@ def using_size(array)
 end
 
 returnval = using_reverse(["wow", "I", "am", "really", "learning", "arrays!"])
-puts returnval
+p returnval
