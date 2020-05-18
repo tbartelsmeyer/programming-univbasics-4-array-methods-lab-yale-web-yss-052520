@@ -19,7 +19,7 @@ def using_last(array)
 end
 
 def using_size(array)
-
+  array.size
 end
 
 returnval = using_reverse(["wow", "I", "am", "really", "learning", "arrays!"])
